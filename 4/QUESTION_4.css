@@ -1,0 +1,7 @@
+p {
+  border: 2px solid black;
+}
+img{
+  max-width: 150px;
+  max-height: 150px;
+}
